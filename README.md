@@ -11,11 +11,11 @@ Curated list of Halocoin wallets and others
 - [Daemon Tools and API Server](#daemon-tools-and-api-server)
 - [Source Code](#source-code)
 
-### Linux Wallet
+## Linux Wallet
 
 Download source code for Linux wallet from <a href="docs/linux-wallet/halocoin-qt-linux.tar.gz" download> here </a>
 
-### Windows Wallet
+## Windows Wallet
 
 Download source code for Windows wallet from <a href="docs/windows-wallet/halocoin-qt-windows.zip" download> here </a>
 
@@ -25,4 +25,4 @@ Download Daemon Tools and API Server from <a href="docs/daemon-tools-and-api-ser
 
 ### Source-code
 
-- <a href="https://github.com/haloservices/haloservices-source">(Code)</a>
+<a href="https://github.com/haloservices/haloservices-source">Code</a>
