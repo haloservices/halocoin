@@ -1,7 +1,5 @@
 # Halocoin
 
-![Halocoin!](docs/images/haloservices.png "Halocoin")
-
 Curated list of Halocoin wallets and others
 
 # Table of Contents
